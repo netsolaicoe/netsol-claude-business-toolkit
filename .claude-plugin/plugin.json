@@ -7,8 +7,12 @@
     "name": "Network Solutions"
   },
   "homepage": "https://www.networksolutions.com/",
+  "repository": "https://github.com/netsolaicoe/netsol-claude-business-toolkit",
+  "documentationUrl": "https://github.com/netsolaicoe/netsol-claude-business-toolkit#readme",
+  "supportUrl": "https://www.networksolutions.com/help",
   "icon": "./assets/icon.png",
   "privacyPolicyUrl": "https://www.newfold.com/privacy-center",
+  "termsOfServiceUrl": "https://legal.newfold.com/",
   "skills": "./skills/",
   "mcpServers": "./.mcp.json",
   "license": "Apache-2.0"
